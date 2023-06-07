@@ -3,7 +3,7 @@ import { Box, Container, Grid, Typography } from '@mui/material'
 export default function ContactUs() {
   return (
     <>
-      <Box sx={{ backgroundColor: 'black' }}>
+      <Box sx={{ backgroundColor: '#161616' }}>
         <Container maxWidth='md'>
           <Grid py={10} container columnSpacing={6} rowSpacing={3}>
             <Grid item xs={12} sm={4}>

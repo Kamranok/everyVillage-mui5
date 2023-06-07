@@ -7,6 +7,7 @@ import JoinUs from '../components/JoinUs'
 import OptionsCards from '../components/OptionsCards'
 import ContactUs from '../components/ContactUs'
 import BuildNation from '../components/BuildNation'
+import Footer from '../components/Footer'
 
 const imgSudan =
   'https://www.unicef.org/sites/default/files/styles/hero_desktop/public/UN0202141_0.jpg?itok=lOmB0bHH'
@@ -91,6 +92,7 @@ const Home = () => {
       <JoinUs />
       <BuildNation />
       <ContactUs />
+      <Footer />
     </>
   )
 }

@@ -6,7 +6,7 @@ import Typography from '@mui/material/Typography'
 import Button from '@mui/material/Button'
 import IconButton from '@mui/material/IconButton'
 import MenuIcon from '@mui/icons-material/Menu'
-import { Container } from '@mui/material'
+import { Avatar, Container } from '@mui/material'
 
 export default function ButtonAppBar() {
   const pages = ['who', 'what', 'where', 'join', 'give']
@@ -29,6 +29,7 @@ export default function ButtonAppBar() {
               sx={{ mr: 2, flexGrow: 0, color: 'white' }}
             >
               {/* <MenuIcon /> */}
+              <Avatar  sx={{ bgcolor: 'white', color: 'black' }} >EV</Avatar>
             </IconButton>
             <Typography
               color='white'
