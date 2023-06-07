@@ -11,7 +11,7 @@ import BuildNation from '../components/BuildNation'
 const imgSudan =
   'https://www.unicef.org/sites/default/files/styles/hero_desktop/public/UN0202141_0.jpg?itok=lOmB0bHH'
 
-export const Home = () => {
+const Home = () => {
   return (
     <>
       <Box
@@ -94,3 +94,4 @@ export const Home = () => {
     </>
   )
 }
+export default Home
