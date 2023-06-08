@@ -72,7 +72,7 @@ const itemData = [
   },
 
   {
-    img: 'https://images.unsplash.com/photo-1535253868107-da56da1693db?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHN1ZGFufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60',
+    img: 'https://media.istockphoto.com/id/1030947618/photo/sudanese-woman.jpg?s=612x612&w=0&k=20&c=95bTwAZE5D50WgeKR6SiqtTHYsFk6j2Z0QGlGxPOJkA=',
     title: 'join us',
     description:
       'Read our story, meet our team, see our board, review our finances,',
