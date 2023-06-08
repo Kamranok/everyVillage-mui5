@@ -43,7 +43,7 @@ const Home = () => {
               </Typography>
               <Typography
                 mx={'auto'}
-                my={{ xs: 2, sm: 5 }}
+                my={{ xs: 2 }}
                 color='white'
                 variant='body1'
                 fontWeight='bold'

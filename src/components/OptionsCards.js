@@ -14,8 +14,9 @@ function OptionsCards() {
           flexWrap='wrap'
           sx={{
             mt: {
-              xs: -5,
-              sm: -15,
+              xs: '-5vh',
+              sm: '-5vh',
+              md: '-10vh',
             },
           }}
         >
